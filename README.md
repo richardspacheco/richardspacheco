@@ -1,10 +1,9 @@
 ### Richard Pacheco
 
-I'm a front-end developer crazy about documentation and clean code who got swept off my feet by TypeScript.
+I'm a front-end developer crazy about documentation and clean code and got swept off my feet by TypeScript.
 
 - 🔭 Focused on TypeScript, React and GraphQL
 - 🌱 Currently learning GraphQL
-- 👯 Currently collaborating on TypeScript localization
 - 💬 What else do I do? Running, cooking and watching TV Series (not necessarily in that order)
 
 <!--
