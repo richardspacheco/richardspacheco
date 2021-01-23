@@ -1,9 +1,9 @@
-### Richard Pacheco
+Hi there!
 
-I'm a front-end developer crazy about documentation and clean code and got swept off my feet by TypeScript.
+My name is Richard, I'm a front-end developer crazy about documentation and currently smitten with TypeScript.
 
 - 🔭 Focused on TypeScript, React and GraphQL
-- 🌱 Currently learning GraphQL
+- 🌱 Currently learning more about accessibility!
 - 💬 What else do I do? Running, cooking and watching TV Series (not necessarily in that order)
 
 <!--
