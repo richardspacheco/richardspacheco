@@ -4,7 +4,7 @@ My name is Richard, I'm a front-end developer crazy about documentation and curr
 
 - 🔭 Focused on TypeScript, React and GraphQL
 - 🌱 Currently learning more about accessibility!
-- 💬 What else do I do? Running, cooking and watching TV Series (not necessarily in that order)
+- 💬 What else do I do? Running, stargazing and watching TV Series
 
 <!--
 Here are some ideas to get you started:
