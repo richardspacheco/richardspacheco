@@ -1,6 +1,6 @@
 Hi there!
 
-My name is Richard, I'm a front-end developer crazy about documentation and currently smitten with TypeScript.
+My name is Richard, I'm a front-end developer passionate about pixel perfect interfaces and currently smitten with TypeScript.
 
 - 🔭 Focused on TypeScript, React and GraphQL
 - 🌱 Currently learning more about accessibility!
